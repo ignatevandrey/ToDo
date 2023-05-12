@@ -1,0 +1,21 @@
+.input_wrapper {
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+.input_text {
+    width: 100%;
+    border-color: #C5D0DB;
+    border-radius: 8px;
+    height: 32px;
+}
+
+@media screen {
+    .input_wrapper:first-child {
+        margin-bottom: 48px;
+    }
+}

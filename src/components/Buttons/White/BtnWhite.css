@@ -1,0 +1,14 @@
+.btn_white {
+    background-color: #fff;
+    color: #0073F7;
+    padding: 8px 24px;
+    border-radius: 6px;
+    border-color: #0073F7;
+    margin-left: 10px;
+}
+
+.btn_white:hover {
+    cursor: pointer;
+    background-color: blue;
+    color: wheat;
+}
