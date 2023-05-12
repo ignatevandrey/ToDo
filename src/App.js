@@ -2,7 +2,7 @@ import "./App.css";
 
 
 import Inputs from "./components/Inputs/Inputs";
-import Checkbox from "./components/CheckBox/Check";
+import Checkbox from "./components/Checkbox/Checkbox";
 
 function App() {
   return (
